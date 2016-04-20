@@ -1,2 +1,2 @@
-# API_CMUpdater
-OTA Update test for CM12.1 fot Infinix Hot 2
+# CyanogenMod Updater for Infinix Hot 2
+OTA Update test for CM12.1 for Infinix Hot 2
