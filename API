@@ -4,13 +4,13 @@
  "result": [
 {
     "url": "https://www.dropbox.com/s/opohzex3z7bknfa/cm-12.1-20160416-UNOFFICIAL-X510-FIX.zip?dl=1",
-    "timestamp": "1460834556",
+    "timestamp": "1461685392",
     "api_level": "22",
     "md5sum": "546302cefe63a3bbdc6499c494ee3599",
     "filename": "cm-12.1-20160416-UNOFFICIAL-X510-FIX.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/AmbaradulTeam/API_CMUpdater/master/CHANGELOG",
-    "incremental": "d435fe9e07"
+    "incremental": "f529j5g7b8"
     },
   ],
  "error": null
