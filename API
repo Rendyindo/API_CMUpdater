@@ -3,14 +3,14 @@
  "id": null,
  "result": [
 {
-    "url": "https://www.dropbox.com/s/opohzex3z7bknfa/cm-12.1-20160416-UNOFFICIAL-X510-FIX.zip?dl=1",
-    "timestamp": "1461685392",
+    "url": "https://www.dropbox.com/s/99u5di2kgk6rogh/CM-12.1-20160511-UNOFFICIAL-X510.zip?dl=1",
+    "timestamp": "1462972700",
     "api_level": "22",
-    "md5sum": "546302cefe63a3bbdc6499c494ee3599",
-    "filename": "cm-12.1-20160416-UNOFFICIAL-X510-FIX.zip",
+    "md5sum": "af355b1443aa8e9a17ea277314c9f1ed",
+    "filename": "CM-12.1-20160511-UNOFFICIAL-X510.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/AmbaradulTeam/API_CMUpdater/master/CHANGELOG",
-    "incremental": "f529j5g7b8"
+    "incremental": "h636ja63ah"
     },
   ],
  "error": null
