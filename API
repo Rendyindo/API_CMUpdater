@@ -7,7 +7,7 @@
     "timestamp": "1463144007",
     "api_level": "22",
     "md5sum": "e5a798fc7b211fddf56ac7ddcff88861",
-    "filename": "CM-12.1-20160512-UNOFFICIAL-X510.zip",
+    "filename": "cm-12.1-20160512-UNOFFICIAL-X510.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/AmbaradulTeam/API_CMUpdater/master/CHANGELOG",
     "incremental": "5425fe5bgb"
