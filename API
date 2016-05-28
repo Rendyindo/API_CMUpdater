@@ -4,13 +4,13 @@
  "result": [
 {
     "url": "https://github.com/AmbaradulTeam/API_CMUpdater/releases/download/20160521/cm-12.1-20160521-UNOFFICIAL-X510.zip",
-    "timestamp": "1463829701",
+    "timestamp": "1464429343",
     "api_level": "22",
-    "md5sum": "4bd7b6924aae28b6a9235b8ec02d4714",
+    "md5sum": "5b838995daf285249c1ad1309ecc2903",
     "filename": "cm-12.1-20160521-UNOFFICIAL-X510.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/AmbaradulTeam/API_CMUpdater/master/CHANGELOG",
-    "incremental": "djdu6gdja5"
+    "incremental": "cm1220160521"
     },
   ],
  "error": null
