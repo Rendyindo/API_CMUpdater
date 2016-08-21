@@ -8,8 +8,8 @@
     "md5sum": "ee5d1c0da0b09bc54985cacd4f9705b5",
     "filename": "cm-13_fix-patch_v3.zip",
     "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
+    "changes": "http://rendyindo.github.io/API_CMUpdater/CHANGELOG",
+    "incremental": "test123654"
     },
   ],
  "error": null
